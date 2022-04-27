@@ -109,5 +109,8 @@ print(bool(x))
 print(bool(y))
 print(bool(12))
 """
+x, y = [float(x) for x in input().split()]
+print(x)
+print(y)
 
 
