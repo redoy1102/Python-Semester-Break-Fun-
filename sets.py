@@ -41,3 +41,6 @@ res = n.isdisjoint(nb)
 print(res)
 
 
+
+
+
